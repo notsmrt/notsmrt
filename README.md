@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @notsmrt
+- 👀 I’m interested in --> speech recognition
+- 🌱 I’m currently learning --> image recognition
+- 💞️ I’m looking to collaborate on --> anything!
+- 📫 How to reach me --> trexsam7@gmail.com
