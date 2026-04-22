@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @notsmrt
-- 👀 I’m interested in --> speech recognition
-- 🌱 I’m currently learning --> image recognition
+- 👀 I’m interested in --> video processing and machine learning as well as financial markets
+- 🌱 I’m currently learning --> markov chains
 - 💞️ I’m looking to collaborate on --> anything!
 - 📫 How to reach me --> trexsam7@gmail.com
